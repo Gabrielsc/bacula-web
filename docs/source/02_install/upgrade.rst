@@ -56,7 +56,7 @@ Fix files ownership
    On Red Hat / Centos / Fedora
    # chown -v apache: application/config/config.php
    On Debian / Ubuntu
-   # chown -v www-data: appilcation/config/config.php
+   # chown -v www-data: application/config/config.php
 
 Test your setup
 ---------------
