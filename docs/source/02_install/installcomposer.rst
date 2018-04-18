@@ -37,7 +37,7 @@ Open a shell (as root) on your server and run these command
     # curl -sS https://getcomposer.org/installer | php
     # mv composer.phar composer
 
-Make sure $PATH contain /usr/loca/bin
+Make sure $PATH contain /usr/local/bin
 
 ::
 
@@ -47,7 +47,7 @@ If it's not the case, fix it
 
 ::
 
-    $ export PATH=$PATH:/usr/loca/bin
+    $ export PATH=$PATH:/usr/local/bin
 
 For more detailled instructions, check `this page <https://getcomposer.org/download/>`_.
 
